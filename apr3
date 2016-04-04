@@ -1,0 +1,8 @@
+responsive design resizes along with screen size
+add bootstrap with: <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+class: container-fluid on a div element to contain bootstrap elements
+img-responsive class makes image screen responsive
+text-center class centers text
+<button></button> elements with class "btn"
+in-line element stays as large as its text; block element expands to whole page width
+btn-block class creates buttons as block elements (keep btn class)
