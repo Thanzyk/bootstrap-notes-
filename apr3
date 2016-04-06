@@ -17,3 +17,10 @@ md- screen size - medium in this case (e.g. laptop)
 class="row"
 nest within div with class="row", then within one div per element in row with class ".col-size-*"
 use span to give classes to in-line elements
+font awesome can be added with <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+thumbs up icon  <i class="fa fa-thumbs-up"></i>
+.svg - vector graphic format - specify size with pixels, assume font size of parent html element
+fa-info-circle and fa-trash icons
+col-xs-* classes can be used on form elements
+whole row within <
+<i class="fa fa-paper-plane"></i> 
