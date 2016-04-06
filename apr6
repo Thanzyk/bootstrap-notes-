@@ -1,0 +1,11 @@
+first intro text
+then set up container-fluid div
+then set up outside row element div
+then inner column element divs
+class "well" gives sense of depth to column elements
+then class "well" div
+then button elements
+btn-default - additional button class
+some classes in bootstrap solely for the point of being easily selected with jquery
+id attribute - Each id must be unique to a specific element and used only once per page.
+id="id-name" in div separate from classes
